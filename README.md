@@ -6,5 +6,5 @@
 ### You can also decide the number of checks you want, using the settings button on the top right corner😉
 
 ## Result 
-![](guessnumbervideo.gif)# NumberGuessGame
-
+![](result1.png)
+![](result2.png)
